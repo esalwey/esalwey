@@ -13,7 +13,7 @@ I write software for three very different rooms: the estimating desk on a constr
 <tr>
 <td width="33%" valign="top">
 
-#### 🏗️ Construction economics
+#### Construction economics
 Cost estimating and quantity take-off tools: measurements in, priced bills out.
 
 <sub>private projects</sub>
@@ -21,7 +21,7 @@ Cost estimating and quantity take-off tools: measurements in, priced bills out.
 </td>
 <td width="33%" valign="top">
 
-#### 📊 ERP & business apps
+#### ERP & business apps
 Bookings, clients, invoicing and the day-to-day workflows a company actually runs on.
 
 <sub>private projects</sub>
@@ -29,7 +29,7 @@ Bookings, clients, invoicing and the day-to-day workflows a company actually run
 </td>
 <td width="33%" valign="top">
 
-#### 📺 Apple TV
+#### Apple TV
 [**NuvioTV**](https://github.com/esalwey/NuvioTV): Nuvio, made for Apple TV. Native SwiftUI on a Kotlin Multiplatform core.
 
 <sub>open source · GPL-3.0</sub>
